@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Pattini, Lorenzo  
-- **Comisión:** M2025-8  
+- Pattini, Lorenzo  
+- Comisión: M2025-8  
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  

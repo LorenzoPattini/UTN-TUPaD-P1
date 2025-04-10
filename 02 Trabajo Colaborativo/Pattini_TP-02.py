@@ -1,4 +1,4 @@
-# Trabajo Práctico Gi y GitHub
+# Trabajo Práctico Git y GitHub
 ## Actividad 1 
 
 # ¿Qué es GitHub?

@@ -1,4 +1,4 @@
-### Trabajo Práctico 4 Estructuras repetitivas
+### Trabajo Práctico 4 Estructuras repetitivas ###
 
 ## Actividad 1
 for i in range(0,101):

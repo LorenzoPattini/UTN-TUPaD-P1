@@ -1,4 +1,5 @@
-### Trabajo Practico 5 Funciones
+### Trabajo Practico 5 Funciones ###
+
 #### Comienzo Funciones Programa Principal ####
 #Inicio de Funciones Actividad 1
 def imprimir_hola_mundo():

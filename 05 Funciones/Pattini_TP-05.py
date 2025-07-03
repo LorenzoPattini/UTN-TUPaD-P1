@@ -1,4 +1,5 @@
-####////// Comienzo Funciones Programa Principal //////####
+### Trabajo Practico 5 Funciones
+#### Comienzo Funciones Programa Principal ####
 #Inicio de Funciones Actividad 1
 def imprimir_hola_mundo():
     return print("Hola Mundo!")
@@ -70,7 +71,7 @@ def calcular_promedio(a, b, c):
     return print(f"El promedio de los números ingresados es: {promedio}")
 #Fin de Funciones Actividad 10
 
-#####////// Final Funciones Programa Principal //////####
+##### Final Funciones Programa Principal ####
 
 ### Actividad 1
 

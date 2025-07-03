@@ -4,7 +4,7 @@ Descripción
 
 Este repositorio contiene los ejercicios enfocados en el manejo de listas en Python, incluyendo indexación, modificación de elementos, métodos integrados y listas anidadas.
 
-✨Objetivos
+✨ Objetivos
 
 Dominar la indexación y slicing para acceder a elementos en listas.
 

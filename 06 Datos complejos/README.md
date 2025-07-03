@@ -4,6 +4,7 @@
 Este trabajo práctico si bien está enumerado "6", pertenece a la unidad "7" de la materia Programación 1.
 
 Descripción
+
 Este repositorio contiene los ejercicios enfocados en el manejo de estructuras de datos complejas en Python, incluyendo diccionarios, sets y tuplas, con aplicaciones prácticas como gestión de contactos, análisis de texto y manejo de inventarios.
 
 ✨ Objetivos

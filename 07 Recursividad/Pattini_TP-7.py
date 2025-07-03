@@ -1,4 +1,4 @@
-###TP7 Recursividad###
+### Trabajo Práctico 7 Recursividad ###
 ##Inicio de Funciones##
 def factorial(g): #Función para calcular la factorización del valor ingresado.
     if g == 0:

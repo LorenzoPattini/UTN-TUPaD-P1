@@ -10,4 +10,4 @@
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
 
 📌 **Estructura del repositorio:**  
-- Cada trabajo práctico está organizado en carpetas individuales.
+- Cada trabajo práctico está organizado en carpetas individuales con un archivo README.

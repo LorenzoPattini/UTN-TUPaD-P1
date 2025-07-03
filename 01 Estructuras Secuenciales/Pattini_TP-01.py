@@ -1,4 +1,5 @@
-# Trabajo Práctico 1 Secuenciales
+### Trabajo Práctico 1 Secuenciales ###
+
 ## Actividad 1 
 print ("Hola Mundo!")
 

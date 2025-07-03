@@ -1,9 +1,10 @@
 📌 README - Práctico 5: Funciones en Python
 
 Descripción
+
 Este repositorio contiene los ejercicios enfocados en el uso de funciones en Python para implementar modularidad, reutilización de código y organización estructurada en la resolución de problemas.
 
-✨Objetivos
+✨ Objetivos
 
 Comprender los fundamentos de las funciones en Python.
 

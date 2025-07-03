@@ -1,6 +1,7 @@
 📌 README - Práctico 5.1: Listas en Python
 
 Descripción
+
 Este repositorio contiene los ejercicios enfocados en el manejo de listas en Python, incluyendo indexación, modificación de elementos, métodos integrados y listas anidadas.
 
 ✨Objetivos

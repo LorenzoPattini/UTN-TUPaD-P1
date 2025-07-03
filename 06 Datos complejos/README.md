@@ -1,6 +1,7 @@
 📌 README - Práctico 6: Estructuras de Datos Complejas
 
 ℹ️ Aclaración
+
 Este trabajo práctico si bien está enumerado "6", pertenece a la unidad "7" de la materia Programación 1.
 
 Descripción

@@ -1,4 +1,4 @@
-### Práctico 3: Estructuras condicionales
+### Trabajo Práctico 3 Estructuras Condicionales ###
 
 ## Actividad 1
 edad = int(input("Escriba su edad: "))

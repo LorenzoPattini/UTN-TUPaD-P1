@@ -1,4 +1,5 @@
-#### Trabajo Práctico 6 Estructuras de datos complejas ####
+### Trabajo Práctico 6 Estructuras de datos complejas ###
+
 ### Funciones: ###
 
 def consultar_agenda_fecha(consulta):                                                                                                  # Función recursiva que utiliza una variable string, esta toma utilidad dentro de la función ya que hace de control para detener la misma.
